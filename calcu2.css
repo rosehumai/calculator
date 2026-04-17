@@ -1,0 +1,23 @@
+*{
+    padding : 0px;
+    margin: 0px;
+    
+}
+body{
+    text-align: center;
+}
+h3{
+    margin:5px 0px 10px 0px ;
+}
+#num1{
+    margin: 10px 0px 10px 0px;
+}
+#num2{
+    margin-bottom:10px;
+}
+#sel{
+    margin-bottom:10px;
+}
+#styl{
+    background-color: #b5a6a6;
+}
